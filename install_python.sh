@@ -11,4 +11,5 @@ sudo make install
 
 wget https://bootstrap.pypa.io/ez_setup.py -O - | sudo python
 sudo easy_install pip
-pip install virtualenv
+sudo pip install virtualenv
+sudo pip install virtualenvwrapper
